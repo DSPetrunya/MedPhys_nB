@@ -1,0 +1,4 @@
+/run/initialize
+/gun/particle neutron
+/gun/energy 40 keV
+/run/beamOn 1000
